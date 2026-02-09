@@ -1,4 +1,4 @@
-# InfraBondX
+# InfraBondX 
 
 **InfraBondX** is a transparency-first platform designed to improve trust, accountability, and accessibility in infrastructure bond funding. It helps track infrastructure bond allocations, project progress, and fund utilization through a clean dashboard experience with secure authentication and structured reporting.
 
@@ -216,5 +216,6 @@ This project is licensed under the **MIT License**.
 ## 👤 Author
 
 **Mandeep Kumar**
+Username:- @mandeep6207
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
