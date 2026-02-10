@@ -1,4 +1,4 @@
-# InfraBondX 
+# InfraBondX Infrastructure Bonds Tokenization Funding System
 
 **InfraBondX** is a transparency-first platform designed to improve trust, accountability, and accessibility in infrastructure bond funding. It helps track infrastructure bond allocations, project progress, and fund utilization through a clean dashboard experience with secure authentication and structured reporting.
 
