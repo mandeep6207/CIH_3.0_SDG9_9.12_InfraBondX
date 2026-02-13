@@ -63,7 +63,7 @@ Infrastructure funding and reporting still suffers from:
 
 ---
 
-## 📂 Project Structure
+## 📂 Project File Structure
 
 > Structure may vary based on your repo organization.
 
