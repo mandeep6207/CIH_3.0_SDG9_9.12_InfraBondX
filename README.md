@@ -17,7 +17,7 @@ Infrastructure funding and reporting still suffers from:
 * **Lack of trust** in infrastructure funding mechanisms
 * **Fund misuse and delays** due to limited transparency
 * **Limited access** to infrastructure bonds for retail investors
-* **Manual verification and fragmented reporting**, making monitoring slow
+* **Manual verification and fragmented reporting**, making monitoring very slow
 
 ---
 
