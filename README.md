@@ -111,7 +111,7 @@ VITE_BACKEND_URL=http://localhost:5000
 ### 1) Clone the Repository
 
 ```bash
-git clone <your-repo-link>
+git clone <repo-link>
 cd InfraBondX
 ```
 
