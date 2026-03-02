@@ -197,7 +197,7 @@ Make sure `.env` is configured correctly and the backend is running.
 
 ## 🤝 Contributing
 
-Contributions are welcome.
+Contributions are always welcome.
 
 1. Fork the repository
 2. Create a new branch (`feature/your-feature`)
